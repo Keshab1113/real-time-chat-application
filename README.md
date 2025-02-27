@@ -42,8 +42,8 @@ A real-time chat application built using **Next.js**, **Socket.io**, and **Tailw
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-username/chat-app.git
-cd chat-app
+[git clone https://github.com/Keshab1113/real-time-chat-application.git]
+cd frontend
 ```
 
 ### 2️⃣ Install Dependencies
