@@ -4,7 +4,7 @@ import { nanoid } from "nanoid";
 import { useEffect, useRef, useState } from "react";
 
 // Connect to Socket.io server
-const socket = io("https://symmetrical-disco-jv7vgjjvv5w2pxj9-5000.app.github.dev", {
+const socket = io("https://real-time-chat-application-c5xo.onrender.com", {
     transports: ["websocket", "polling"],
     reconnection: true,
     reconnectionAttempts: 5,
